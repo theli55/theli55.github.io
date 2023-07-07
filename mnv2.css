@@ -350,3 +350,9 @@
 .typeWindows-2-g3UY > div:active::after {
 	transform: scale(1);
 }
+.field-21XZwa > div > div > div {
+  filter: blur(5px);
+}
+.field-21XZwa > div > div > div:hover {
+  filter: blur(0);
+}
